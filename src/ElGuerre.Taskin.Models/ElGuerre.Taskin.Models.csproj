@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ElGuerre.Taskin.Models</AssemblyName>
+    <LangVersion>latest</LangVersion>
+    <UserSecretsId>49ebb1a6-71b8-4aab-a7d2-3d3a91d754d9</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+</Project>
